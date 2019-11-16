@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+.logo{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(187, 11, 26);
+    text-shadow: -5px 2px 2px rgba(206,89,55,0.3);
+    font-size: 50px;
+    margin-top: 20px;
+    
+}
+.icon-header{
+   font-size: 40px;
+   text-align: right;
+   color: rgba(179, 180, 162, 0.568);
+   opacity: 0.5;
+   
+}
+body{
+    scroll-behavior: smooth;
+}
+.search{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#img{
+    margin-top: 5px;
+    height: 480px;
+    background-size: 100% 100%;
+    width: 100%;
+    background-image: url(https://theme.hstatic.net/1000257596/1000329871/14/slideshow_1.jpg?v=82) ;
+}
+.col-3{
+    height: 400px;
+}
+
+/* body */
+.anh{
+    height: 240px;
+    width: 240px;
+    background-size:cover;    
+    display: flex;
+    justify-content: flex-end;   
+    cursor: pointer;
+    
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 0.5px rgb(221, 220, 220);
+    opacity: 0;
+   
+}
+.fa-shopping-cart{  
+    font-size: 20px;
+    color: rgb(99, 75, 71);    
+}
+
+.anh1{
+    background-image: url(https://product.hstatic.net/1000257596/product/bgn7x_480480_ph001_large.jpg) ;
+}
+.anh1:hover{
+    
+    background-image: url(https://product.hstatic.net/1000257596/product/tf150web2_large.jpg);
+    transition: background 2s;
+}
+.anh2{
+    background-image: url(https://product.hstatic.net/1000257596/product/83_492z_rev_goldoutdoor_07600e4f6fd8422f910e9f445b7ff33e_large.jpg);
+}
+.anh3{
+    background-image: url(https://product.hstatic.net/1000257596/product/83-534z_top_large.jpg);
+}
+.anh3:hover{
+    background-size:100% 75% ;
+    background-repeat: no-repeat;
+    background-image: url(https://product.hstatic.net/1000257596/product/62035374_624686954698079_4403989899733106688_n_6dfe6dbd19214e6a8c78c70a1b5eb1a3_large.jpg);
+    transition: background 2s;
+}
+.anh4{
+    background-image: url(https://product.hstatic.net/1000257596/product/spalding_tf500_large.jpg);
+}
+.anh4:hover{
+    background-image: url(//product.hstatic.net/1000257596/product/83-534z_large.jpg);
+    transition: background 2s;
+}
+.anh5{
+    background-image: url(https://product.hstatic.net/1000257596/product/spalding-tf250_660k_large.jpg);
+}
+.anh6{
+    background-image: url(https://product.hstatic.net/1000257596/product/upload_01ca7070e76441bbb1adc6176365b9c9_large.jpg);
+}
+.anh7{
+    background-image: url(https://product.hstatic.net/1000257596/product/cheap-basket-ball-advanced-spalding-ball_large.jpg);
+}
+.anh8{
+    background-image: url(https://product.hstatic.net/1000257596/product/16_tf150fiba_flyer_large.jpg);
+}
+
+.giay{
+    background-size: 240px 180px ;
+    background-repeat: no-repeat;
+}
+.giay1{
+    
+    background-image: url(https://product.hstatic.net/1000257596/product/nike-lebron-16-low-dream-team-ci2668-101-3_4bb3da1a1f56460f81d3851edc8d9a29_large.jpg);
+}
+.giay2{
+    background-image: url(https://product.hstatic.net/1000257596/product/ci2668-003-phslh001_740x_266951262f1244fb8701409b86236c50_large.jpg);
+}
+.giay3{
+    background-image: url(https://product.hstatic.net/1000257596/product/ar4229_600-1200x800_c27f122e0ee0467a9a0e3a34ab2be9f5_large.jpg);
+}
+.giay4{
+    background-image: url(https://product.hstatic.net/1000257596/product/nike-kd-12-the-day-one-black-ar4229-001-01_1a1afe79716e4264a9566ebca14538f4_large.jpg);
+}
+.giay5{
+    background-image: url(https://product.hstatic.net/1000257596/product/nike-adapt-bb-dark-grey-03-ao2582_004_a858e6f4931b40ea8447419938181a07_large.jpg);
+}
+.giay6{
+    background-image: url(https://product.hstatic.net/1000257596/product/air-jordan-33-university-red-aq8830-600-release-date-price_d32da2b9f1f94f9394cbcab98c2afa71_large.jpg);
+}
+.giay7{
+    background-image: url(https://product.hstatic.net/1000257596/product/ipad_a8e93239857947dee83faea7f44604245bea19d26da8d_9ebbe27eb05e472bb8b3c882346d8a63_large.jpg);
+}
+.giay8{
+    background-image: url(https://product.hstatic.net/1000257596/product/jordan-33-utility-blackout-aq8830_002-1_dc155fbb4102414a8cf9064fdb084577_large.jpg);
+}
+
+.col-6{
+    height: 300px;
+    background-size: 100% 100%;
+    
+}
+.imglast{
+    margin-top: 30px ;
+}
+.imglast1{
+    background-image: url(https://theme.hstatic.net/1000257596/1000329871/14/block_home_category1.jpg?v=82);
+}
+.imglast2{
+    background-image: url(https://theme.hstatic.net/1000257596/1000329871/14/block_home_category2.jpg?v=82);
+}
+
+.nd{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.show{
+    bottom: 100px;
+    opacity: 1;
+    visibility: visible;
+   
+
+}

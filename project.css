@@ -1,0 +1,148 @@
+#back-anh{
+    height:460px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-image: url(https://file.hstatic.net/1000257596/collection/thoi-trang-bong-ro-900x300.jpg);
+}
+.anh{
+    height: 240px;
+    width: 240px;
+    background-size:cover;
+    
+    display: flex;
+    justify-content: flex-end;   
+    cursor: pointer;
+    
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 0.5px rgb(221, 220, 220);
+    opacity: 0;
+}
+.fa-shopping-cart{  
+    font-size: 20px;
+    color: rgb(99, 75, 71);    
+}
+.anh1{
+    background-image: url(http://product.hstatic.net/1000257596/product/60526521_1239356229566340_1657279539945930752_n_63a4a561782247658c605c8cf03c11d0_master.jpg);
+    transition: background 2s  ;
+}
+.anh2{
+    background-image: url(http://product.hstatic.net/1000257596/product/0191686823769_normal_012_1024x1024_a6829aeaa74d47ceb17a787448b3b098_large.jpg);
+    transition: background 2s  ;
+}
+.anh3{
+    background-image: url(http://product.hstatic.net/1000257596/product/tb2lzrtfh1ybunjy1zcxxbncxxa___3325336003_3bc2b59c08ed4a079ead2cd0f0545077_large.jpg);
+    transition: background 2s  ;
+}
+.anh4{
+    background-image: url(http://product.hstatic.net/1000257596/product/tb2ephlcbgybunjy0foxxcibfxa___432192112_7d80815d235d46eea9e1ad864945f3d9_large.jpg);
+    transition: background 2s  ;
+}
+.anh5{
+    background-image: url(http://product.hstatic.net/1000257596/product/078191df3261d63f8f70_db6db546845a48d59f46552e92f4800f_large.jpg);
+    transition: background 2s  ;
+}
+.anh6{
+    background-image: url(http://product.hstatic.net/1000257596/product/o1cn01kuf4t72935ozeq0pi___2566408011_d3cb6a3c88694899a9d46d2a6c85ef96_large.jpg);
+    transition: background 2s  ;
+}
+.anh7{
+    background-image: url(http://product.hstatic.net/1000257596/product/unk-nba-nba-los-angeles-lakers-star-power-mesh-drawstring-shorts_48d6c8cfea2e48198ccac6c57ad426dc_large.jpg);
+    transition: background 2s  ;
+}
+.anh8{
+    background-image: url(http://product.hstatic.net/1000257596/product/quan_short_nba_star_power_lakers_1_f2e1770bd5004c84a896a64b0db91f51_large.jpg);
+    transition: background 2s;
+}
+.anh9{
+    background-image: url(http://product.hstatic.net/1000257596/product/chien_binh_quan_short_nba_star_power_1_392ee50b76c74f5c807cb3cda1c7000e_master.jpg);
+    transition: background 2s;
+}
+.anh10{
+    background-image: url(http://product.hstatic.net/1000257596/product/nba_boston_celtics_supreme_mesh_drawstring_shorts_009d372fb5e04f159c571a176d1939d1_master.jpg);
+    transition: background 2s;
+}
+.anh11{
+    background-image: url(http://product.hstatic.net/1000257596/product/quan_short_nba_star_power_celtics_1_3910ecb2c77249ce85840c2a12489aa2_master.jpg);
+    transition: background 2s;
+}
+.anh12{
+    background-image: url(http://product.hstatic.net/1000257596/product/quan_short_nba_star_power_bulls_2_249f4b77e9e145f69623c28b98fc5a8c_master.jpg);
+    transition: background 2s;
+}
+.anh13{
+    background-image: url(http://product.hstatic.net/1000257596/product/ten_lua_quan_short_nba_star_power_1_97557a6b54614096930fe83aafa91d8a_master.jpg);
+    transition: background 2s;
+}
+.anh14{
+    background-image: url(http://product.hstatic.net/1000257596/product/images_ce9664f7d5d54dad9b4d089acd000af6_master.jpg);
+    transition: background 2s;
+}
+.anh15{
+    background-image: url(http://product.hstatic.net/1000257596/product/dscf0329_d8427bd5a4b94caa926acf4b7d3fc925_master.jpg);
+    transition: background 2s;
+}
+.anh16{
+    background-image: url(http://product.hstatic.net/1000257596/product/unk_nba_nba_boston_celtics_track_jacket_1_85ebb675b7bf40199d4b63012e73c7c2_master.jpg);
+    transition: background 2s;
+}
+.anh1:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/60531561_1239356232899673_2342061081146425344_n_5e8602a2d2dc4b7a8194a8eacd20cc90_large.jpg) ;
+}
+.anh2:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn01fy4pcz1ze3daeu1u4___2836686738_f5745ad1c61c4ea7abfbd6e20baacbaa_large.gif);
+}
+.anh3:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/tb2.fwger1ybunjsszexxablfxa___1752366453_9e96c46942ac45b799c75af75a859851_large.jpg);
+}
+.anh4:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/tb2dmdfckkwbunjy1zjxxcoypxa___432192112_7bd095a302394611a0bb8d6e6b104bfa_large.jpg);
+}
+.anh5:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/hirt-poly-midtown-small-black_6700750_132751751a796368bc89118c04886c61_9219f42894de466c8b3522a072d7c32c_large.jpg);
+}
+.anh6:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn01whwbnj2935ob5pn79___2566408011_4a79a0c889134652a6900ebd12aaf02d_large.jpg);
+}
+.anh7:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn019yadgo1qhpyknmvyq___2931195527.jpg_400x400_21523eac730d44b783fe6b6be8dade25_large.jpg);
+}
+.anh8:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/quan_short_nba_star_power_lakers_7_b2d7ea232206441db9172c50041d841d_large.jpg);
+}
+.anh9:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/chien_binh_quan_short_nba_star_power_8_d20942e117e34e99a1edaec172d71fe2_master.jpg) ;
+}
+.anh10:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn01y283m51qhpymvsxwg___2931195527.jpg_400x400_b64331a426c74f078cd4686f310d41d1_master.jpg);
+}
+.anh11:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/quan_short_nba_star_power_celtics_7_1226ce98675a4792b183f6e702c2932d_master.jpg);
+}
+.anh12:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn01hu9agg1qhpyk5sywb___2931195527.jpg_400x400_a8b990f3958b49e1a82d619316d59d52_master.jpg);
+}
+.anh13:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/quan_short_nba_star_power_bulls_2_29840954a05e4b53ae10b56fb028ae13_master.jpg);
+}
+.anh14:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn016bo6f11qhpyjsdycq___2931195527.jpg_400x400_889915c3b2ae4f37a7063df17c4a7580_master.jpg);
+}
+.anh15:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/unk-nba-nba-chicago-bulls-track-jacket_65018b620a7047f38c5abc7c605dd21c_master.jpg);
+}
+.anh16:hover{
+    background-image: url(https://product.hstatic.net/1000257596/product/o1cn011jxtzg68kuirkml___3167961039_3b68772bc3284960b548318e8a627f10_master.jpg);
+}
+.nd{
+    text-align: center;
+}
+
+.mauchu:hover{
+    color: #337ab7;
+}
